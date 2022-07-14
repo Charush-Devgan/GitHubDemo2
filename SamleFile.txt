@@ -8,6 +8,3 @@ some mode code
 //new comment
 
 additional code
-
-
-//add some new comments
